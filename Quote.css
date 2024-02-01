@@ -24,7 +24,7 @@ body {
   padding: 5px;
   width: 80%;
   border-radius: 5px;
-  background-color: #7a5840;
+  background-color: #ad927d;
   margin: 20px auto;
 }
 .main {
@@ -32,7 +32,7 @@ body {
   height: 300px;
   border-radius: 15px;
   padding: 50px 40px;
-  background-color:#b8987f;
+  background-color:#c4af9c;
 }
 .button-area button {
   margin: 20px;
@@ -41,10 +41,10 @@ body {
   padding:10px 15px ;
   margin-top: 20px;
   border-radius: 5px;
-  background: #614b39;
+  background: #ab8f78;
 }
 .button-area button:active{
-    background-color: rgb(161, 113, 46);
+    background-color: rgb(211, 176, 128);
 }
 .main .text {
   font-size: 1.5rems;

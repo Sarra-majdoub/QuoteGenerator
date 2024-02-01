@@ -24,6 +24,8 @@ var x = setInterval(function () {
   }
 }, 1000);*/
 
+console.log("hello");
+
 setInterval(myFunction, 1000);
 
 function myFunction() {
